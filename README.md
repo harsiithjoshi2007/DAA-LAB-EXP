@@ -5,10 +5,10 @@
 This repository contains the implementation, performance analysis, and documentation for the first five core experiments of the Design and Analysis of Algorithms laboratory curriculum (Academic Year: 2026 – 2027).
 
 ## 🏫 Institutional Details
-- **Institution:** Chennai Institute of Technology
-- **Department:** Computer Science and Engineering
-- **Course:** B.E. Computer Science and Engineering (III Semester)
-- **Faculty:** Dr. J Venkatesh
+- **Institution: ** Chennai Institute of Technology
+- **Department: ** Computer Science and Engineering
+- **Course: ** B.E. Computer Science and Engineering (III Semester)
+- **Faculty: ** Dr. B. SUNDARAMBAL
 
 ---
 
